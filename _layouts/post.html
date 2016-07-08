@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+  <header class="post-header">
+
+    <center><div class="post-title" itemprop="name headline">{{ page.title }}</div>
+
+	<div class="post-meta"><i class="fa fa-calendar-o"></i> <time datetime="{{ page.date | date_to_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d %Y" }}</time>
+
+		{% if page.author %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-user-secret"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span>
+        {% endif %}
+		<br>
+	</div>
+    </center>
+</header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post-content">
+    <center>
+	{% if page.subtitle %}
+	<p>{{ page.subtitle }}</p>
+	{% endif %}
+    </center>
+	<h2>Directory</h2>
+</div>
+
+
+<div class="post-content" itemprop="articleBody">
+    {{ content }}
+</div>
+
+<div>
+	{% if page.finished %}
+	<div class="eof"></div>
+	{% else %}
+	<div class="tbc"></div>
+	{% endif %}
+</div>
+
+<!-- {% include share.html %} -->
+</article>

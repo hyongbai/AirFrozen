@@ -1,0 +1,53 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+*.apk
+*.ap_
+*.dex
+*.iml
+local.properties
+.classpath
+.project
+*.jar.properties
+project.properties
+.settings
+
+#temp files
+*.swp
+*~
+*.iws
+*.ipr
+
+# lint
+lint.xml
+
+#android-app-pack
+auto.prop
+
+.DS_Store
+
+#annotation
+.factorypath
+
+#androidAnntation
+.apt_generated
+
+# Android Studio
+.idea/
+.gradle/
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+
+*.trace
+*.index
+*.hprof
+_site/

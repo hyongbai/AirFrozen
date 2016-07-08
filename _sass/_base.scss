@@ -1,0 +1,328 @@
+/**
+ * Basic styling
+ */
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+body {
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-feature-settings: "kern" 1;
+    -moz-font-feature-settings: "kern" 1;
+    -o-font-feature-settings: "kern" 1;
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+
+
+/**
+ * Images
+ */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+    color: #666;
+    letter-spacing: 1px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+
+/**
+ * Headings
+ */
+h1 {
+    font-size: 18px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 16px;
+}
+
+
+/**
+ * Links
+ */
+
+a {
+    color: $brand-color;
+    text-decoration: none;
+    transition: border .5s;
+}
+
+a:hover {
+    border-bottom: 2px dotted #000;
+}
+
+
+.post-content h2:before {
+    content: "¶ ";
+    margin-right: 20px;
+    color: $brand-color;
+}
+
+.link {
+    padding: 2px;
+    color: $brand-color;
+    text-decoration: none;
+    transition: background-color .7s;
+}
+
+.link:hover {
+    background-color: #e6e6e6;
+    border: none;
+}
+
+
+/**
+ * Share
+ */
+
+.share {
+    margin-bottom: 30px;
+    border-top: 1px solid #eee;
+    color: #777;
+    font-size: 17px;
+}
+
+.share a {
+    border-bottom: none;
+}
+
+.twitter-share {
+    color: #1B95E0;
+}
+
+.facebook-share {
+    color: #3A5795;
+}
+
+.googleplus-share {
+    color: #E53935;
+}
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    border-left: 5px solid #eee;
+    margin-left: 30px;
+    padding: 5px 15px;
+    color: #888888;
+}
+
+
+/**
+ * Hr
+ */
+hr {
+    border: none;
+    height: 1px;
+    margin: 40px auto;
+    background: #dcdcdc;
+    width: 100%;
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid #f8f8f8;
+    border-radius: 3px;
+    background-color: #f8f8f8;
+    color: #27badf;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+
+/**
+ * Table
+ */
+
+table, th {
+    width: 100%;
+    table-layout: fixed;
+    margin: 24px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+    border-collapse: collapse;
+line-height: 25px;
+letter-spacing: 1px;
+}
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+
+
+
+
+/**
+ * TBC
+ */
+
+.tbc {
+    height: 1px;
+    margin: 6rem auto;
+    width: 100%
+}
+
+.tbc:before {
+    content: "- T.B.C -";
+    width: 100%;
+    text-align: center;
+    display: block;
+    color: #aaa;
+    letter-spacing: 4px;
+    position: relative;
+    top: -8px;
+}
+
+
+/**
+ * EOF
+ */
+.eof {
+    height: 1px;
+    margin:6rem auto;
+    width: 100%;
+}
+
+.eof:before {
+    content: "- E.O.F -";
+    width: 100%;
+    text-align: center;
+    display: block;
+    color: #aaa;
+    letter-spacing: 4px;
+    position: relative;
+    top: -8px;
+}
+
+
+/**
+ * Evidence
+ */
+.evidence {
+    background-image: -webkit-linear-gradient(top, rgba(255,240,70,0.7), rgba(255,240,70,0.7));
+    background-image: linear-gradient(to bottom, rgba(255,240,70,0.7), rgba(255,240,70,0.7));
+    color: #222;
+}

@@ -1,0 +1,15 @@
+# Site settings
+title: AirFrozen
+name: AirFrozen # your name
+email: hyongbai@gmail.com # your email address
+description: >
+    A Simple Jekyll Blog Theme. # this means to ignore newlines until "baseurl:"
+# baseurl: "/AirFrozen" # the subpath of your site, e.g. /blog
+url: "https://itisbenjamin.github.io" # the base hostname & protocol for your site
+twitter_username: hyongbai # your Twitter username
+github_username: hyongbai # your Github username
+disqus_username: hyongbai # your disqus username
+
+# Build settings
+permalink: none
+markdown: kramdown
