@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "Changelog"
-finished: true
 permalink: /changelog
 ---
 
 ## 1.2.4
 - 【添加】关于
-- 【修复】MIUI长按无法弹出操作框的问题。
-- 【修复】不能在设置中卸载空调狗的问题(抱歉)。
+- 【优化】性能
+- 【添加】应用置顶
+- 【添加】根据使用次数排序
+- 【修复】不能在设置中卸载空调狗的问题
+- 【修复】MIUI长按无法弹出操作框的问题
+
+- 【ADD】Pin
+- 【ADD】Optimization
+- 【ADD】Sort by clicked count
 - 【FIX】Option dialog can't show in MIUI
 - 【FIX】Cant uninstall AirFrozen in settings
 
