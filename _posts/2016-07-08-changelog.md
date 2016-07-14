@@ -1,8 +1,16 @@
 ---
 layout: post
 title: "Changelog"
-permalink: /changelog
+permalink: /changelog/
 ---
+
+## 1.2.4.2
+- 【修复】多个崩溃
+- 【FIX】Crash by tons of bugs
+
+## 1.2.4.1
+- 【修复】紧急修复快捷方式点击两次方可运行
+- 【FIX】Need double tap to launch on shortcut
 
 ## 1.2.4
 - 【添加】关于
