@@ -4,8 +4,6 @@
 # generated files
 bin/
 gen/
-*.apk
-*.ap_
 *.dex
 *.iml
 local.properties
