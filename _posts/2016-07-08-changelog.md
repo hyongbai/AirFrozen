@@ -4,6 +4,29 @@ title: "Changelog"
 permalink: /changelog/
 ---
 
+## 1.2.5.2
+- 【增加】加入QQ群
+- 【修复】增加稳定性
+- 【优化】锁屏即冻结等待为0时立即冻结
+- 【ADD】Optimise peformance
+
+## 1.2.5.1
+
+- 【修复】进入选择列表崩溃
+- 【Fix】Crash on open WhiteList
+
+## 1.2.5
+- 【添加】全选
+- 【添加】白名单
+- 【优化】内存占用
+- 【修复】被卸载的APP也会出现
+- 【优化】退出即冻结速度/卡顿
+- 【ADD】Choose all
+- 【ADD】White list
+- 【FIX】Memory usage
+- 【FIX】Uninstalled app shown in AirFrozen
+- 【ADD】Optimize freeze on exit more smoother
+
 ## 1.2.4.2
 - 【修复】多个崩溃
 - 【FIX】Crash by tons of bugs
@@ -42,6 +65,7 @@ permalink: /changelog/
 - 【新增】取消在任务列表隐藏
 - 【新增】0分钟的锁屏冻结等待时间
 - 【修复】点击放入文件夹中的快捷方式打开应用后被冻住的问题
+
 - 【ADD】remove exclude from recent tasks
 - 【ADD】0 minute to wait to freeze on lock
 - 【FIX】Auto frozen by click shortcut in a folder
