@@ -41,8 +41,7 @@ permalink: /changelog/
 - 【添加】应用置顶
 - 【添加】根据使用次数排序
 - 【修复】不能在设置中卸载空调狗的问题
-- 【修复】MIUI长按无法弹出操作框的问题
-
+- 【修复】MIUI长按无法弹出操作框的
 - 【ADD】Pin
 - 【ADD】Optimization
 - 【ADD】Sort by clicked count
@@ -55,7 +54,6 @@ permalink: /changelog/
 - 【修复】开启无障碍后不开启退出冻结
 - 【添加】可通过设置页获取设备管理器的权限
 - 【优化】三星手机上取消每次都弹出获取设备管理器权限的弹框
-
 - 【FIX】Remove useless permission from admin
 - 【FIX】Freeze on quit not work after accessibility is granted
 - 【ADD】Grant admin permission in settings
@@ -65,7 +63,6 @@ permalink: /changelog/
 - 【新增】取消在任务列表隐藏
 - 【新增】0分钟的锁屏冻结等待时间
 - 【修复】点击放入文件夹中的快捷方式打开应用后被冻住的问题
-
 - 【ADD】remove exclude from recent tasks
 - 【ADD】0 minute to wait to freeze on lock
 - 【FIX】Auto frozen by click shortcut in a folder
@@ -73,14 +70,13 @@ permalink: /changelog/
 ## 1.2.1.1
 
 - 【修复】设置页的崩溃
-- 【修复】其他的一些BUG
-
+- 【修复】其他的一些B
 - 【FIX】Crash in Settings
 - 【FIX】BUGs
 
 ## 1.2.1
 
-- 【修复】崩溃
+- 【修复】I]sh
 
 ## 1.2
 - 【新增】设置项
@@ -88,8 +84,7 @@ permalink: /changelog/
 - 【新增】灭屏即冻结
 - 【新增】在设置中选择卸载空调狗的功能 :)
 - 【修复】打开快捷方式后会先弹出主界面的问题
-- 【修复】在S7 edge上面不能显示全APP的icon的问题
-
+- 【修复】在S7 edge上面不能显示全APP的icon问题
 - 【ADD】Settings
 - 【ADD】Freeze on exit APP
 - 【ADD】Freeze on screen locked
@@ -101,7 +96,7 @@ permalink: /changelog/
 
 - 快捷方式打开已冻结的APP
 - 运行APP后关闭AirFrozen界面
-- 三星手机上面不用Root绿色冻结
+- 三星手机上面不用Root冻结
 - Create shortcut and launch APP by shortcut
 - Stop AirFrozen after run an APP
 - Freeze APP for samsung without ROOT
