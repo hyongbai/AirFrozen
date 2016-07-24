@@ -4,6 +4,17 @@ title: "Changelog"
 permalink: /changelog/
 ---
 
+## 1.2.5.4
+- 【修复】取消选中时不自动解冻
+- 【修复】魅蓝手机不能弹框的问题
+- 【修复】部分三星用户不能免ROOT使用, 请卸载多试几次(感谢蜡笔小寒协助)
+- 【FIX】Can't auto thaw on unchecked
+- 【FIX】Failed to freeze for some samsung devices
+
+## 1.2.5.3
+- 【修复】国行三星手机无法生成快捷方式。
+- 【FIX】Can't create shortcut on some samsung device
+
 ## 1.2.5.2
 - 【增加】加入QQ群
 - 【修复】增加稳定性
