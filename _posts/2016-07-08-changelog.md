@@ -4,6 +4,24 @@ title: "Changelog"
 permalink: /changelog/
 ---
 
+## 1.2.6
+- 【优化】性能
+- 【添加】一键冻结快捷方式
+- 【添加】冻结系统应用(彩蛋)
+- 【添加】已冻结APP添加雪花标记取消置灰
+- 【NEW】Optimization
+- 【NEW】Shortcut for 1 tap freeze
+- 【NEW】Snow icon for frozen apps
+- 【NEW】Freeze system apps(Easter egg)
+
+## 1.2.5.5
+- 【优化】释放内存
+- 【修复】从文件夹打开快捷方式崩溃的问题
+- 【修复】在部分三星手机上面锁屏即冻结有时会失效
+- 【FIX】Fail to release memory
+- 【FIX】Auto freeze when launch shortcut in folder
+- 【FIX】Can't freeze on locked on some samsung devices
+
 ## 1.2.5.4
 - 【修复】取消选中时不自动解冻
 - 【修复】魅蓝手机不能弹框的问题
