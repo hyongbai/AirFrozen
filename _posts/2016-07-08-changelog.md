@@ -4,6 +4,12 @@ title: "Changelog"
 permalink: /changelog/
 ---
 
+## 1.2.6.1
+- 【添加】搜索
+- 【优化】不列出来了
+- 【NEW】Search
+- 【NEW】Optimization
+
 ## 1.2.6
 - 【优化】性能
 - 【添加】一键冻结快捷方式

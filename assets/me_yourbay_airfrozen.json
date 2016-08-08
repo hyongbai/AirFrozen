@@ -1,8 +1,8 @@
 {
 	"app":{
-	    "vc" : 31,
-	    "log_cn" : "## 1.2.5.6\n\n- 【优化】性能\n- 【添加】一键冻结快捷方式\n- 【添加】冻结系统应用(彩蛋)\n- 【添加】已冻结APP添加雪花标记取消置灰\n\n## 1.2.5.5\n\n- 【优化】释放内存\n- 【修复】从文件夹打开快捷方式崩溃的问题\n- 【修复】在部分三星手机上面锁屏即冻结有时会失效",
-	    "log_en" : "## 1.2.5.6\n\n- 【NEW】Optimization\n- 【NEW】Shortcut for 1 tap freeze\n- 【NEW】Snow icon for frozen apps\n- 【NEW】Freeze system apps(Easter egg)\n\n## 1.2.5.5\n\n- 【FIX】Fail to release memory\n- 【FIX】Auto freeze when launch shortcut in folder\n- 【FIX】Can't freeze on locked on some samsung devices",
-	    "url" : "https://github.com/hyongbai/AirFrozen/releases/download/v1.2.6/AirFrozen-1.2.6.apk"
+	    "vc" : 33,
+	    "log_cn" : "## 1.2.6.1\n\n- 【添加】搜索\n- 【优化】不列出来了\n## 1.2.6\n\n- 【优化】性能\n- 【添加】一键冻结快捷方式\n- 【添加】冻结系统应用(彩蛋)\n- 【添加】已冻结APP添加雪花标记取消置灰",
+	    "log_en" : "## 1.2.6.1\n\n- 【NEW】Search\n- 【NEW】Optimization\n## 1.2.6\n\n- 【NEW】Optimization\n- 【NEW】Shortcut for 1 tap freeze\n- 【NEW】Snow icon for frozen apps\n- 【NEW】Freeze system apps(Easter egg)",
+	    "url" : "https://github.com/hyongbai/AirFrozen/releases/download/v1.2.6.1/AirFrozen-1.2.6.1.apk"
 	}
 }
