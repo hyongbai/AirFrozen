@@ -4,13 +4,17 @@ title: "Changelog"
 permalink: /changelog/
 ---
 
-## 1.2.6.1
+## 下载地址们:
+
+[https://github.com/hyongbai/AirFrozen/releases](https://github.com/hyongbai/AirFrozen/releases)
+
+### 1.2.6.1
 - 【添加】搜索
 - 【优化】不列出来了
 - 【NEW】Search
 - 【NEW】Optimization
 
-## 1.2.6
+### 1.2.6
 - 【优化】性能
 - 【添加】一键冻结快捷方式
 - 【添加】冻结系统应用(彩蛋)
@@ -20,7 +24,7 @@ permalink: /changelog/
 - 【NEW】Snow icon for frozen apps
 - 【NEW】Freeze system apps(Easter egg)
 
-## 1.2.5.5
+### 1.2.5.5
 - 【优化】释放内存
 - 【修复】从文件夹打开快捷方式崩溃的问题
 - 【修复】在部分三星手机上面锁屏即冻结有时会失效
@@ -28,29 +32,29 @@ permalink: /changelog/
 - 【FIX】Auto freeze when launch shortcut in folder
 - 【FIX】Can't freeze on locked on some samsung devices
 
-## 1.2.5.4
+### 1.2.5.4
 - 【修复】取消选中时不自动解冻
 - 【修复】魅蓝手机不能弹框的问题
 - 【修复】部分三星用户不能免ROOT使用, 请卸载多试几次(感谢蜡笔小寒协助)
 - 【FIX】Can't auto thaw on unchecked
 - 【FIX】Failed to freeze for some samsung devices
 
-## 1.2.5.3
+### 1.2.5.3
 - 【修复】国行三星手机无法生成快捷方式。
 - 【FIX】Can't create shortcut on some samsung device
 
-## 1.2.5.2
+### 1.2.5.2
 - 【增加】加入QQ群
 - 【修复】增加稳定性
 - 【优化】锁屏即冻结等待为0时立即冻结
 - 【ADD】Optimise peformance
 
-## 1.2.5.1
+### 1.2.5.1
 
 - 【修复】进入选择列表崩溃
 - 【Fix】Crash on open WhiteList
 
-## 1.2.5
+### 1.2.5
 - 【添加】全选
 - 【添加】白名单
 - 【优化】内存占用
@@ -62,15 +66,15 @@ permalink: /changelog/
 - 【FIX】Uninstalled app shown in AirFrozen
 - 【ADD】Optimize freeze on exit more smoother
 
-## 1.2.4.2
+### 1.2.4.2
 - 【修复】多个崩溃
 - 【FIX】Crash by tons of bugs
 
-## 1.2.4.1
+### 1.2.4.1
 - 【修复】紧急修复快捷方式点击两次方可运行
 - 【FIX】Need double tap to launch on shortcut
 
-## 1.2.4
+### 1.2.4
 - 【添加】关于
 - 【优化】性能
 - 【添加】应用置顶
@@ -83,7 +87,7 @@ permalink: /changelog/
 - 【FIX】Option dialog can't show in MIUI
 - 【FIX】Cant uninstall AirFrozen in settings
 
-## 1.2.3
+### 1.2.3
 
 - 【移除】设备管理器中多余的权限
 - 【修复】开启无障碍后不开启退出冻结
@@ -94,7 +98,7 @@ permalink: /changelog/
 - 【ADD】Grant admin permission in settings
 - 【FIX】Cancel request admin permission dialog on launch
 
-## 1.2.2
+### 1.2.2
 - 【新增】取消在任务列表隐藏
 - 【新增】0分钟的锁屏冻结等待时间
 - 【修复】点击放入文件夹中的快捷方式打开应用后被冻住的问题
@@ -102,18 +106,18 @@ permalink: /changelog/
 - 【ADD】0 minute to wait to freeze on lock
 - 【FIX】Auto frozen by click shortcut in a folder
 
-## 1.2.1.1
+### 1.2.1.1
 
 - 【修复】设置页的崩溃
 - 【修复】其他的一些B
 - 【FIX】Crash in Settings
 - 【FIX】BUGs
 
-## 1.2.1
+### 1.2.1
 
 - 【修复】I]sh
 
-## 1.2
+### 1.2
 - 【新增】设置项
 - 【新增】退出即冻结
 - 【新增】灭屏即冻结
@@ -127,7 +131,7 @@ permalink: /changelog/
 - 【FIX】Show AirFrozen when launch through shortcut
 - 【FIX】Can't load APP icon on S7 edge
 
-## 1.1
+### 1.1
 
 - 快捷方式打开已冻结的APP
 - 运行APP后关闭AirFrozen界面
@@ -136,19 +140,19 @@ permalink: /changelog/
 - Stop AirFrozen after run an APP
 - Freeze APP for samsung without ROOT
 
-## 1.0.3
+### 1.0.3
 
 - 单击icon直接运行
 - 长按icon弹出操作菜单
 - 增加卸载app的选项
 
-## 1.0.2
+### 1.0.2
 修复读取已删除app时出现的崩溃
 
-## 1.0.1
+### 1.0.1
 加速一键冻结的速度。35个应用从17秒减少到5秒。
 
-## 1.0
+### 1.0
 
 一款冻结应用从而让手机更快更安全的应用
 
