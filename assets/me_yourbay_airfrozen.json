@@ -1,8 +1,8 @@
 {
 	"app":{
-	    "vc" : 46,
-	    "log_cn" : "## 1.2.6.5\n\n- 【优化】稳定性\n- 【修复】更新应用也会自动加入冻结列表\n\n ## 1.2.6.4\n\n- 【修复】清除数据后再进入崩溃\n- 【修复】4.4无法关闭锁屏冻结\n- 【修复】部分手机锁屏无法冻结\n- 【添加】新安装应用自动加入冻结列表\n\n ## 1.2.6.3\n\n- 【添加】前台运行不冻结\n 1.2.6.2\n\n- 【添加】批量解冻\n- 【添加】批量从列表移除\n- 【添加】批量创建快捷方式\n- 【移除】快捷方式中的雪花\n\n- 【移除】已冻结的APP左边的小雪花",
-	    "log_en" : "## 1.2.6.5\n\n- 【FIX】New updated app is add to freeze list automatically\n\n ## 1.2.6.4\n\n- 【FIX】Crash after clear data\n- 【FIX】Can't disable freeze on lock on 4.4\n- 【FIX】Freeze-on-lock not work on some devices\n- 【NEW】Auto adding to freeze list while installed\n\n ## 1.2.6.3\n\n- 【NEW】No freeze if app is run on front## 1.2.6.2\n\n- 【NEW】Batch edit(thaw/create shortcut/remove from list)",
-	    "url" : "https://github.com/hyongbai/AirFrozen/releases/download/v1.2.6.5/AirFrozen-1.2.6.5.apk"
+	    "vc" : 47,
+	    "log_cn" : "## 1.2.6.1\n\n-【修复】崩溃\n\n## 1.2.6.5\n\n- 【优化】稳定性\n- 【修复】更新应用也会自动加入冻结列表\n\n ## 1.2.6.4\n\n- 【修复】清除数据后再进入崩溃\n- 【修复】4.4无法关闭锁屏冻结\n- 【修复】部分手机锁屏无法冻结\n- 【添加】新安装应用自动加入冻结列表\n\n ## 1.2.6.3\n\n- 【添加】前台运行不冻结\n 1.2.6.2\n\n- 【添加】批量解冻\n- 【添加】批量从列表移除\n- 【添加】批量创建快捷方式\n- 【移除】快捷方式中的雪花\n\n- 【移除】已冻结的APP左边的小雪花",
+	    "log_en" : "## 1.2.6.1\n\n-【FIX】Bugs\n\n## 1.2.6.5\n\n- 【FIX】New updated app is add to freeze list automatically\n\n ## 1.2.6.4\n\n- 【FIX】Crash after clear data\n- 【FIX】Can't disable freeze on lock on 4.4\n- 【FIX】Freeze-on-lock not work on some devices\n- 【NEW】Auto adding to freeze list while installed\n\n ## 1.2.6.3\n\n- 【NEW】No freeze if app is run on front## 1.2.6.2\n\n- 【NEW】Batch edit(thaw/create shortcut/remove from list)",
+	    "url" : "https://github.com/hyongbai/AirFrozen/releases/download/v1.2.6.5.1/AirFrozen-1.2.6.5.1.apk"
 	}
 }
