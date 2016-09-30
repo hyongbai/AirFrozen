@@ -8,6 +8,48 @@ permalink: /changelog/
 
 [https://github.com/hyongbai/AirFrozen/releases](https://github.com/hyongbai/AirFrozen/releases)
 
+### 1.2.6.6
+- 【修改】快捷方式添加角标
+- 【优化】剪切icon使快捷方式尺寸一致
+- 【添加】是否在最近任务显示的选项(方便7.0用户)
+- 【修复】应用更新时打开空调狗会把应用移除的bug
+- 【修复】应用名不更新的问题
+- 【NEW】Badge for new-added shortcut
+- 【NEW】Add switch for exclude from recents
+- 【FIX】App name not update
+- 【FIX】App will be removed on launch AirFrozen while upgrading
+
+### 1.2.6.5.1
+- 【修复】崩溃
+- 【FIX】Bugs
+
+### 1.2.6.5
+- 【优化】稳定性
+- 【修复】更新应用也会自动加入冻结列表
+- 【FIX】New updated app is add to freeze list automatically
+
+### 1.2.6.4
+- 【修复】清除数据后再进入崩溃
+- 【修复】4.4无法关闭锁屏冻结
+- 【修复】部分手机锁屏无法冻结
+- 【添加】新安装应用自动加入冻结列表
+- 【FIX】Crash after clear data
+- 【FIX】Can't disable freeze on lock on 4.4
+- 【FIX】Freeze-on-lock not work on some devices
+- 【NEW】Auto adding to freeze list while installed
+
+### 1.2.6.3
+- 【添加】前台运行不冻结
+- 【NEW】No freeze if app is run on front
+
+### 1.2.6.2
+- 【添加】批量解冻
+- 【添加】批量从列表移除
+- 【添加】批量创建快捷方式
+- 【移除】快捷方式中的雪花
+- 【移除】已冻结的APP左边的小雪花
+- 【NEW】Batch edit(thaw/create shortcut/remove from list)
+
 ### 1.2.6.1
 - 【添加】搜索
 - 【优化】不列出来了
@@ -88,7 +130,6 @@ permalink: /changelog/
 - 【FIX】Cant uninstall AirFrozen in settings
 
 ### 1.2.3
-
 - 【移除】设备管理器中多余的权限
 - 【修复】开启无障碍后不开启退出冻结
 - 【添加】可通过设置页获取设备管理器的权限
@@ -107,14 +148,12 @@ permalink: /changelog/
 - 【FIX】Auto frozen by click shortcut in a folder
 
 ### 1.2.1.1
-
 - 【修复】设置页的崩溃
 - 【修复】其他的一些B
 - 【FIX】Crash in Settings
 - 【FIX】BUGs
 
 ### 1.2.1
-
 - 【修复】I]sh
 
 ### 1.2
@@ -132,7 +171,6 @@ permalink: /changelog/
 - 【FIX】Can't load APP icon on S7 edge
 
 ### 1.1
-
 - 快捷方式打开已冻结的APP
 - 运行APP后关闭AirFrozen界面
 - 三星手机上面不用Root冻结
@@ -141,7 +179,6 @@ permalink: /changelog/
 - Freeze APP for samsung without ROOT
 
 ### 1.0.3
-
 - 单击icon直接运行
 - 长按icon弹出操作菜单
 - 增加卸载app的选项
