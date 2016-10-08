@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Changelog"
+title: "ChangeLog"
 permalink: /changelog/
 ---
 
 ## 下载地址们:
 
-[https://github.com/hyongbai/AirFrozen/releases](https://github.com/hyongbai/AirFrozen/releases)
+[Releases@github](https://github.com/hyongbai/AirFrozen/releases)
 
 ### 1.2.6.6
 - 【修改】快捷方式添加角标
