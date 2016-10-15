@@ -8,6 +8,12 @@ permalink: /changelog/
 
 [Releases@github](https://github.com/hyongbai/AirFrozen/releases)
 
+## 1.2.6.7
+- 【优化】列表加载速度
+- 【添加】长按HOME调出空调狗
+- 【FIX】Optimize loading speed
+- 【NEW】Launch AirFrozen by long press home(Assist)
+
 ### 1.2.6.6
 - 【修改】快捷方式添加角标
 - 【优化】剪切icon使快捷方式尺寸一致

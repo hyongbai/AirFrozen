@@ -1,8 +1,8 @@
 {
 	"app":{
-	    "vc" : 49,
-	    "log_cn" : "## 1.2.6.6",
-	    "log_en" : "## 1.2.6.6",
-	    "url" : "https://github.com/hyongbai/AirFrozen/releases/download/v1.2.6.6/AirFrozen-1.2.6.6.apk"
+	    "vc" : 51,
+	    "log_cn" : "## 1.2.6.7",
+	    "log_en" : "## 1.2.6.7",
+	    "url" : "https://github.com/hyongbai/AirFrozen/releases/download/v1.2.6.7/AirFrozen-1.2.6.7.apk"
 	}
 }
