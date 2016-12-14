@@ -13,6 +13,10 @@ permalink: /way2knox4sansumg/
 - 操作完之后记得到群里投一票，楼主做下统计。
 - 设置过一次就会记住key，不需要重复设置。
 
+### 重要
+
+*开发者账号【不是】三星账户(Samsung/Galaxy Account)请用上面的[链接](https://seap.samsung.com/license-keys/create)重新申请，邮箱什么的可以使用相同的，但他们是两个【完全不同】、【简直毫不相干】的东西。*
+
 ### PS:
 
 - 请不要做伸手党。
