@@ -7,11 +7,11 @@ permalink: /way2knox4sansumg/
 
 ### 下面是三星免ROOT的步骤：
 
+- 安装空调狗1.2.9或更高版本, [http://t.cn/R5myvvr](http://coolapk.com/apk/me.yourbay.airfrozen)
 - 去 [https://seap.samsung.com/license-keys/create](https://seap.samsung.com/license-keys/create)申请一个开发者账号并创建KEY。申请很简单，只要邮箱即可。
 - 空调狗的【设置】→【DIY KNOX】→【粘贴KEY】→【确认】→【重启APP】
-- 确认无错误粘贴进去后，多重启几次APP(有的小伙伴重启了10次)。并且确保网络连接。
-- 操作完之后记得到群里投一票，楼主做下统计。
-- 设置过一次就会记住key，不需要重复设置。
+- 确认无错误粘贴进去后，多重启几次APP，并且确保网络连接。
+- 验证可能会有延迟，有的延迟达到一天多。保持耐心。
 
 ### 重要
 
@@ -21,7 +21,6 @@ permalink: /way2knox4sansumg/
 - 如果你安装了EZ等冻结软件，最好全部都解冻然后删除之。
 - 最好去`系统设置`里面搜一下`安全策略更新`,然后更新下安全策略。
 
-<del>开发者账号【不是】三星账户(Samsung/Galaxy Account)请用上面的[链接](https://seap.samsung.com/license-keys/create)重新申请，邮箱什么的可以使用相同的，但他们是两个【完全不同】、【简直毫不相干】的东西</del>
 
 ### PS:
 
