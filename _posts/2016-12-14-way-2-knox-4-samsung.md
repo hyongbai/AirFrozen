@@ -4,6 +4,7 @@ title: "ROOT FREE FOR SAMSUNG DEVICES"
 permalink: /way2knox4sansumg/
 ---
 
+此种方案由于三星的不确定性，请不要参考。请移步到通用的免ROOT方案[【看这里】](../way2rootfree)
 
 ### 下面是三星免ROOT的步骤：
 
